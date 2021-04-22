@@ -10,26 +10,26 @@ Article premier
 		* Poser le contexte d’un débutant   
 // ércire le brouillon ici
 
-		* expliquer que la machine il faut tout lui dire
+		* expliquer que la machine il faut tout lui dire   
 // ércire le brouillon ici
 
 	- Première partie :
 
-		* Expliquer qu’un fonction FAIT quelque chose, d’où le nom
+		* Expliquer qu’un fonction FAIT quelque chose, d’où le nom   
 // ércire le brouillon ici
 
-		* Le rôle du nommage (en fonction de ce quelle fait)
+		* Le rôle du nommage (en fonction de ce quelle fait)   
 // ércire le brouillon ici
 
-		* les paramètres ….
+		* les paramètres ….   
 // ércire le brouillon ici
 
 
 	-Deuxième partie :
-		* la portée des fonctions
+		* la portée des fonctions   
 // ércire le brouillon ici
 
-		* Conséquence : les messages d’erreur
+		* Conséquence : les messages d’erreur   
 // ércire le brouillon ici
 
 	-Conclusion :
