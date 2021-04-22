@@ -1,4 +1,5 @@
 Article premier
+
 #Plan
 
 Écrire une fonction JavaScript.
