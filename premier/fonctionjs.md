@@ -7,7 +7,7 @@ Article premier
 
 - Plan :
 	- intro :
-		* Poser le contexte d’un débutant
+		* Poser le contexte d’un débutant   
 // ércire le brouillon ici
 
 		* expliquer que la machine il faut tout lui dire
